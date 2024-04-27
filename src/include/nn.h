@@ -39,4 +39,4 @@ public:
     std::vector<std::shared_ptr<Value>>& getParameters();
 };
 
-#endif // NEURAL_NETWORK_H
+#endif
