@@ -1,6 +1,6 @@
 # micrograd-cpp
 
-This C++ project implements a basic neural network with backpropagation support using smart pointers for memory management. It includes a multi-layer perceptron (MLP) that can be used for basic prediction tasks and is structured to allow easy extension and experimentation with neural network architectures and functions. I have use this project as a means to develop my C++ skills and refresh my understanding of the mechanics of neural networks.
+This C++ project implements a basic neural network with backpropagation support using smart pointers for memory management. It includes a multi-layer perceptron (MLP) that can be used for basic prediction tasks and is structured to allow easy extension and experimentation with neural network architectures and functions. I used this project to develop my C++ skills and refresh my understanding of the core mechanics of neural networks.
 
 ## Building the project
 
